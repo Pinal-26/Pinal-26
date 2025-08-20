@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @Pinal-26
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning DSA...
-  
+# 👋 Hi, I'm Pinal Chothani  
 
-<!---
-Pinal-26/Pinal-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 Passionate about Web Development and Problem Solving (DSA).  
+💻 Skilled in Java, C++, MySQL.  
+🚀 Currently exploring **Full-Stack Development** and enhancing my **DSA skills**.  
+
+---
+
+## 🛠️ Tech Stack  
+- Languages: Java | C++ | SQL  
+- Web: HTML | CSS | JavaScript (basics)  
+- Database: MySQL | PostgreSQL 
