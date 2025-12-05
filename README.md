@@ -105,16 +105,16 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1A233mWeV031tOjl60yUB8g3dwbW1hSG3/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1kBoA4toJ1Ube4iNLwR5Xd6EuWT6h7gqA/view?usp=drivesdk" target="_blank">
     <img alt="NPTEL DBMS Elite Silver" src="https://img.shields.io/badge/NPTEL-DBMS%20Elite%20Silver-ff69b4?style=for-the-badge&logo=nptel&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/certificates/33082a9efaac" target="_blank">
+  <a href="https://www.hackerrank.com/certificates/785bf17ec1f5" target="_blank">
     <img alt="Java HackerRank Basic" src="https://img.shields.io/badge/Java-HackerRank%20Basic-FFD700?style=for-the-badge&logo=java&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/certificates/785bf17ec1f5" target="_blank">
+  <a href="https://www.hackerrank.com/certificates/33082a9efaac" target="_blank">
     <img alt="Problem Solving HackerRank" src="https://img.shields.io/badge/Problem%20Solving-HackerRank%20Basic-1E90FF?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1kBoA4toJ1Ube4iNLwR5Xd6EuWT6h7gqA/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1A233mWeV031tOjl60yUB8g3dwbW1hSG3/view?usp=drivesdk" target="_blank">
     <img alt="DU Hacks 4.0 Participant" src="https://img.shields.io/badge/DU%20Hacks%204.0-Participant-32CD32?style=for-the-badge&logo=hackathon&logoColor=white" />
   </a>
 </p>
